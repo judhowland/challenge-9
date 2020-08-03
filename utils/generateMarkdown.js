@@ -38,17 +38,17 @@ ${data.description}
 
 ## Table of Contents 
 
-* [Installation Instructions](#installation)
+* [Installation](#installation)
 
-* [Usage Information](#usage)
+* [Usage](#usage)
 ${addLicenseAnchor(data.license)}
-* [Contribution Guidelines](#contribution)
+* [Contribution](#contribution)
 
-* [Test Instructions](#tests)
+* [Tests](#tests)
 
 * [Questions](#questions)
 
-## Installation Instructions
+## Installation
 
 The following installation command should be run prior to executing the project: 
 
@@ -56,19 +56,19 @@ The following installation command should be run prior to executing the project:
 ${data.installation}
 \`\`\`
 
-## Usage Information
-
-${data.usage}
-
 ## Usage
+
+The following usage instructions should be considered for this project:
 
 ${data.usage}
 
 ${addLicenseInfo(data.license)}
   
-## Contribution Guidelines
+## Contribution
 
-${data.contributing}
+The following contribution guidelines should be considered for this project:
+
+${data.contribution}
 
 ## Tests
 
@@ -80,7 +80,7 @@ ${data.test}
 
 ## Questions
 
-If you have any questions about the project, please email me at ${data.email}. You may also access my repository at [${data.github}](https://github.com/${data.github}/).
+If you have any questions about the project, please email me at ${data.email}. You may also access my GitHub repository here: [${data.github}](https://github.com/${data.github}/).
 
 `;
 }

@@ -1,48 +1,48 @@
-# Cool Project
+# Coolest Project
 
-  ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-The coolest project there ever was
+This is most likely the coolest project you'll find to create a file
 
 ## Table of Contents 
 
-* [Installation Instructions](#installation)
+* [Installation](#installation)
 
-* [Usage Information](#usage)
+* [Usage](#usage)
 
 * [License](#license)
 
-* [Contribution Guidelines](#contribution)
+* [Contribution](#contribution)
 
-* [Test Instructions](#tests)
+* [Tests](#tests)
 
 * [Questions](#questions)
 
-## Installation Instructions
+## Installation
 
 The following installation command should be run prior to executing the project: 
 
 ```
-npm install
+npm install inquirer
 ```
-
-## Usage Information
-
-Use this project wisely
 
 ## Usage
 
-Use this project wisely
+The following usage instructions should be considered for this project:
+
+This project should be used with care
 
 ## License
 
-This project was developed under the GPL license.
+This project was developed under the MIT license.
   
-## Contributing
+## Contribution
 
-undefined
+The following contribution guidelines should be considered for this project:
+
+Just reference the project and contribute away. Thanks!
 
 ## Tests
 
@@ -54,5 +54,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the project, please email me at jud.howland@gmail.com. You may also access my repository at [judhowland](https://github.com/judhowland/).
+If you have any questions about the project, please email me at jud.howland@gmail.com. You may also access my GitHub repository here: [judhowland](https://github.com/judhowland/).
 
